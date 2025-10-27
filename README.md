@@ -69,14 +69,9 @@ K=3 is more practical. If customers are divided into more clusters, more differe
 The following figure lists the clustering results for different linkages.
 |Single |Average|Weighted|
 | :--- | :--- | :--- |
-|<img width="233" height="177" alt="image" src="https://github.com/user-attachments/assets/70db7a63-b28c-401b-99d7-367595dbecc5" />
- |<img width="240" height="177" alt="image" src="https://github.com/user-attachments/assets/06199cff-ccf5-42a5-aa14-f57f91f617d7" />
- |<img width="219" height="163" alt="image" src="https://github.com/user-attachments/assets/de2665f3-2de3-482f-9eb0-5ac12aa37943" />
- |
+|<img width="233" height="177" alt="image" src="https://github.com/user-attachments/assets/70db7a63-b28c-401b-99d7-367595dbecc5" /> |<img width="240" height="177" alt="image" src="https://github.com/user-attachments/assets/06199cff-ccf5-42a5-aa14-f57f91f617d7" /> |<img width="219" height="163" alt="image" src="https://github.com/user-attachments/assets/de2665f3-2de3-482f-9eb0-5ac12aa37943" /> |
 | Complete | Ward | |
-|<img width="237" height="178" alt="image" src="https://github.com/user-attachments/assets/4cbf7f42-dbd6-4331-9bdb-d04e36bd43a1" />
- |<img width="244" height="183" alt="image" src="https://github.com/user-attachments/assets/7ecb3513-68a7-45d8-96fd-1850b0b45a06" />
- | |
+|<img width="237" height="178" alt="image" src="https://github.com/user-attachments/assets/4cbf7f42-dbd6-4331-9bdb-d04e36bd43a1" /> |<img width="244" height="183" alt="image" src="https://github.com/user-attachments/assets/7ecb3513-68a7-45d8-96fd-1850b0b45a06" /> | |
 
 The following table shows the silhouette score values for each cluster under different linkage methods.
  | Linkage type | C1    | C2    | C3    |
