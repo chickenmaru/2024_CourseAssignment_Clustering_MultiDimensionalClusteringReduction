@@ -41,8 +41,7 @@ Using the silhouette score to evaluate the optimal k value, it is found that k=5
 Under the condition of dividing into 5 clusters, the distribution of each cluster's respective attributes is as follows.
 
 |income |age|
-|<img width="365" height="230" alt="image" src="https://github.com/user-attachments/assets/fec1650d-3490-49be-9818-a391764b51ca" />
-|<img width="365" height="230" alt="image" src="https://github.com/user-attachments/assets/bb77823a-f134-483c-8954-4dad25c4ab10" />
-|
+| :--- | :--- |
+|<img width="1429" height="919" alt="image" src="https://github.com/user-attachments/assets/d2de9893-25b8-4b8f-884c-59b3528b7473" />|<img width="1342" height="929" alt="image" src="https://github.com/user-attachments/assets/25de0593-e124-43e9-b2fc-c9791d2c75be" />|
 |days_since_purchase|annual_spend|
-|1|1|
+|<img width="1376" height="931" alt="image" src="https://github.com/user-attachments/assets/857dc36b-be5a-48d9-b29b-0e87760b3cb4" />|<img width="1532" height="943" alt="image" src="https://github.com/user-attachments/assets/fe4c1c56-0e88-411b-bf31-903841b8a5c9" />|
