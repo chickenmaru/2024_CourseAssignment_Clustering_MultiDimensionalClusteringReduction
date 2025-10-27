@@ -1,9 +1,7 @@
-# 2024_CourseAssignment_Clustering_MultiDimensionalClusteringReduction
-
-# Overview
+# 📘 Overview
 
 
-# Flow
+# ⚙️ Flow
 
 ## 1.Flowchat 1: 
 ### (1) Open four_cols.csv and use the Data Table to describe the dataset content.
@@ -32,4 +30,11 @@ The figure below is the scatter plot for k=4.
 The figure below is the scatter plot for k=5.
 <img width="865" height="583" alt="image" src="https://github.com/user-attachments/assets/05fd415f-5f29-4d10-80ab-8c92b5d7f465" />
 
+## 3.Flowchat 3:
+### (1) Use the silhouette score evaluation method to select the optimal k value for k-Means, and explain whether the optimal k value differs from the number of clusters visualized in Flowchart 1. 
+Using the silhouette score to evaluate the optimal k value, it is found that k=5 yields the highest silhouette score, which differs from the number of clusters observed in the visualization of Flowchart 1. The comparison chart generated from both visualizations is as follows.
+| Flowchart 1 visualization cluster |Evaluating the Optimal k Value Using Silhouette Score |
+| :--- | :--- |
+|<img width="383" height="320" alt="image" src="https://github.com/user-attachments/assets/5b5ec976-c1d6-433a-b3d1-6426c52e8ea0" /> | <img width="379" height="319" alt="image" src="https://github.com/user-attachments/assets/bf5eac03-35d6-4877-a6c0-8228ca7f5c75" />
+|
 
