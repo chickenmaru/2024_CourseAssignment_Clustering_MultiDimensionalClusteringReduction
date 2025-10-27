@@ -114,15 +114,9 @@ After plotting the different linkages using scatter plots, it can be found that 
 
 | Original | Single | Average |
 | :--- | :--- | :--- |
-|<img width="116" height="162" alt="image" src="https://github.com/user-attachments/assets/62627174-75ee-4001-8903-78fc3224efb7" />
-|<img width="231" height="162" alt="image" src="https://github.com/user-attachments/assets/7e0bc61a-9b62-4eaf-bb59-0592fab49995" />
-|<img width="232" height="166" alt="image" src="https://github.com/user-attachments/assets/42db8d10-1b22-4d36-ba48-bf45d1b1562c" />
-|
+|<img width="116" height="162" alt="image" src="https://github.com/user-attachments/assets/62627174-75ee-4001-8903-78fc3224efb7" />|<img width="231" height="162" alt="image" src="https://github.com/user-attachments/assets/7e0bc61a-9b62-4eaf-bb59-0592fab49995" />|<img width="232" height="166" alt="image" src="https://github.com/user-attachments/assets/42db8d10-1b22-4d36-ba48-bf45d1b1562c" />|
 |Weighted|Complete|Ward|
-|<img width="222" height="168" alt="image" src="https://github.com/user-attachments/assets/ce1fd484-7918-42ac-98da-d8aea92dca40" />
-|<img width="249" height="175" alt="image" src="https://github.com/user-attachments/assets/755be2c2-9e25-4c72-a200-4360a335fdb1" />
-|<img width="243" height="174" alt="image" src="https://github.com/user-attachments/assets/4e644381-c500-4ec0-9f43-63af74802e94" />
-|
+|<img width="222" height="168" alt="image" src="https://github.com/user-attachments/assets/ce1fd484-7918-42ac-98da-d8aea92dca40" />|<img width="249" height="175" alt="image" src="https://github.com/user-attachments/assets/755be2c2-9e25-4c72-a200-4360a335fdb1" />|<img width="243" height="174" alt="image" src="https://github.com/user-attachments/assets/4e644381-c500-4ec0-9f43-63af74802e94" />|
 
 #### 2-3. What is the optimal k value selected for k-Means using the Silhouette Score evaluation method?
 At k=8, the Silhouette Score is the highest, so the determined optimal k value is 8.
